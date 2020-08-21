@@ -5,7 +5,7 @@
 5,covering set
 6,1
 7,covering set
-8,NA
+8,119215
 9,2
 10,3762
 11,1
@@ -65,7 +65,7 @@
 65,covering set
 66,8
 67,covering set
-68,NA
+68,365239
 69,2
 70,4
 71,3
@@ -119,7 +119,7 @@
 119,5
 120,1
 121,96
-122,NA
+122,14049
 123,3
 124,3118
 125,covering set
@@ -181,7 +181,7 @@
 181,4
 182,covering set
 183,7
-184,NA
+184,119214
 185,covering set
 186,1
 187,covering set
