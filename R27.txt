@@ -994,7 +994,7 @@
 994,4
 995,covering set
 996,1
-997,NA
+997,6949
 998,2
 999,12
 1000,full algebra factors
