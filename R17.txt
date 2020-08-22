@@ -78,7 +78,7 @@
 78,2
 79,13
 80,4
-81,algebra
+81,partial algebra factors
 82,9
 83,6
 84,1
