@@ -340,7 +340,7 @@
 340,4
 341,3
 342,17
-343,algebra
+343,partial algebra factors
 344,4
 345,1
 346,1
